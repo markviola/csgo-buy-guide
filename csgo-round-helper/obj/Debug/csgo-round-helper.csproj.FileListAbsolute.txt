@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\csgo-round-helper.exe.config
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\csgo-round-helper.exe
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\csgo-round-helper.pdb
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\CSGSI.dll
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo-round-helper.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo_round_helper.Properties.Resources.resources
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo_round_helper.RoundHelper.resources
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo-round-helper.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo-round-helper.exe
+C:\Users\Mark\Desktop\Projects\csgo-round-helper\csgo-round-helper\obj\Debug\csgo-round-helper.pdb
+C:\Users\Mark\Desktop\Projects\csgo-round-manager\csgo-round-helper\bin\Debug\csgo-round-helper.exe.config
+C:\Users\Mark\Desktop\Projects\csgo-round-manager\csgo-round-helper\obj\Debug\csgo-round-helper.exe
+C:\Users\Mark\Desktop\Projects\csgo-round-manager\csgo-round-helper\obj\Debug\csgo-round-helper.pdb
