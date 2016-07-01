@@ -94,7 +94,9 @@ namespace csgo_round_helper
             if(File.Exists(picPath))
             {
                 primaryPicBox.Image = Image.FromFile(picPath);
+                Char.ToUpper(name[7]);
                 primaryLabel.Text = name.Substring(7);
+                
             }
         }
 
@@ -106,6 +108,7 @@ namespace csgo_round_helper
             if (File.Exists(picPath))
             {
                 secondaryPicBox.Image = Image.FromFile(picPath);
+                Char.ToUpper(name[7]);
                 secondaryLabel.Text = name.Substring(7);
             }
         }
